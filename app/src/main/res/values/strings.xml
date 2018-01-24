@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieAPP</string>4
+    <string name="action_Most_Popular">Most Popular</string>
+    <string name="action_Highest_Rated">Highest Rated </string>
+    <string name="MovieDetail" > MovieDetails</string>
+    <string name="desc">image of movies</string>
+    <string name="internetproblem">No Internet Conncection</string>
+
+</resources>

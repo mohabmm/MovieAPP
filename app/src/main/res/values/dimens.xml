@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="layout_Margin_Top">32dp</dimen>
+    <dimen name="layout_marginEnd">8dp</dimen>
+
+</resources>
